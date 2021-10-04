@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #9d2a98;
+  background: #e9ff98;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2367,12 +2367,4 @@ embed {
 }
 .night-mode a:hover i {
   color: #fafafa;
-}
-#背景设置,
-body {
-  background: url("https://images.unsplash.com/photo-1509023464722-18d996393ca8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=80");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: 50% 50%;
 }
